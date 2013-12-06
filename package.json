@@ -1,0 +1,23 @@
+{
+  "name": "pretty-filename",
+  "version": "0.1.0",
+  "description": "A simple helper to create a pretty filename from a string (leaves out anything but alphanumeric chars and the usual dashes).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zladuric/pretty-filename.git"
+  },
+  "keywords": [
+    "pretty",
+    "filename",
+    "string"
+  ],
+  "author": "Zlatko Duric",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/zladuric/pretty-filename/issues"
+  }
+}
